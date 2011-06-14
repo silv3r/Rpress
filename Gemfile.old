@@ -1,0 +1,15 @@
+source "http://rubygems.org"
+
+git "http://github.com/rails/rails.git"
+gem "rails"
+
+# Rspec + Cucumber
+gem "capybara"
+gem "database_cleaner"
+gem "cucumber-rails"
+gem "cucumber"
+gem "rspec", "2.0.0.beta12"
+gem "rspec-rails'" "2.0.0.beta12"
+gem "webrat"
+gem "spork"
+gem '"aunchy"
